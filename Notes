@@ -1,1 +1,17 @@
+image map -> create clicable image 
+picture element -> sen png, jpg formatlarını ekliyorsun browser yumlu formatı seçiyor, uyum problemi yaşamıyorsun.
+Html Layout içibn -> Html table (pek iyi değil), css frameworks (hızlıca yapılabilir), 
+  css float (öğrenmesi kolay, flexibility'si çok iyi değil), css flexbox (yeni, eski browser sürümlerinde çalışmayabilir), 
+  css grid view (kolay, eski sürümlerde çalışmayabilir).
+Responsive -> viewport tagi lazım. Text için vw: viewport width.
+Semboller için -> &euro, &copy vs vs 
+Target -> Yeni bir pencere ya da sekma açılacak gibi tanımlar için
+Http methods -> get ile aldığın her form url'de gözükecek. Hassas datayı url^'de gösteremezsin, zaten url uzunluğu 300 karakterle sınırlı.
+    Google'ın query stringleri gibi hassas olmayan datayı getle alabilirsin. Bookmark için uygun(?)
+    Post: Hassas data için. Fakat bookmark yapılamaz(?)
+Fieldset -> form alanını çerçeveleyip Personal inf. gibi başlık atabilirsin.
+Select element -> dropdown menu
+Textarea -> Multiline input form. (Görüş ve öneriler kısmı gibi.)
+Datalist -> html5 ile geldi, önceden belirlenmiş inputlardaqn seçiyorsun.
+Output element -> Hesaplanmış çıktı veriyor. (Fiyat için kullanılabilir mi?)
 
