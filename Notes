@@ -14,4 +14,4 @@ Select element -> dropdown menu
 Textarea -> Multiline input form. (Görüş ve öneriler kısmı gibi.)
 Datalist -> html5 ile geldi, önceden belirlenmiş inputlardaqn seçiyorsun.
 Output element -> Hesaplanmış çıktı veriyor. (Fiyat için kullanılabilir mi?)
-
+Reset -> input type ı reset yaparsan input txt i sıfırlama butonu gelir.
