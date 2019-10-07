@@ -1,0 +1,7 @@
+-Dosya adı her zaman <!DOCTYPE html> ile başlamalı. Sayfanın html olduğunu belirtir.
+-tag: <> arasındaki her şey
+-head tag'inin içinde dosya ayarları var. İçinde title, style ve script olabilir.
+-body'de kullanıcının gördüğü içerikler.
+-Normalde boşluklar ve enterlar yok sayılır. Yazdığın gibi olmasını istiyorsan <pre< tag'ini kullan.
+-Blockquote: girintili quote yazar.
+-li tag'i sadece ol ve ul taginin içinde olabilir. <a> taginin içine yazmak doğru değil.
